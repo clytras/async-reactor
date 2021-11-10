@@ -2,7 +2,7 @@
 
 > Render async Stateless Functional Components
 
-This is a form to update all dependencies and particular, React 17 and Babel 7.
+This is a fork to update all dependencies and particular, React 17 and Babel 7.
 Test are not working, need lot of refactoring and probably change to Jest.
 
 ## Installation
